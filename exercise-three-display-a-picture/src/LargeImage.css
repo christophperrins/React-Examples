@@ -1,0 +1,10 @@
+.largeImage {
+    position:  absolute; 
+    display: block; 
+    width: 60%; 
+    left: 30%
+}
+
+img {
+    width: 100%
+}

@@ -1,0 +1,11 @@
+.image {
+    position: relative;
+    width: 20%
+}
+
+.animal {
+    position: relative; 
+    display: block; 
+    width:90%; 
+    margin: auto
+}
